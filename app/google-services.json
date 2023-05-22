@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611069558962",
+    "project_id": "fitapp-54c0b",
+    "storage_bucket": "fitapp-54c0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611069558962:android:cab42926ef5cae37d409ab",
+        "android_client_info": {
+          "package_name": "com.example.fitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611069558962-5fhti0ocine3fokkoev0514356od0tkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitapp",
+            "certificate_hash": "ca14f36a8e6405978a104972a8209e1c2fcd2fc9"
+          }
+        },
+        {
+          "client_id": "611069558962-g6sdiqvpe1iraf4tli6448fj8osul2t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLmahbKwQRIM_QrOxmrS8gpMzDCWnuXcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611069558962-g6sdiqvpe1iraf4tli6448fj8osul2t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
